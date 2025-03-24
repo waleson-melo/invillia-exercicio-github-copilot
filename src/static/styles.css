@@ -136,6 +136,19 @@ button:hover {
   display: none;
 }
 
+#participants-container {
+  margin-top: 30px;
+}
+
+#participants-list {
+  margin-top: 20px;
+}
+
+#participants-list p {
+  margin-bottom: 10px;
+  color: #333;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
